@@ -16,7 +16,7 @@ public class Main{
         "KDV'siz tutar : " + tutar+
         "\nKDV oranı : " + kdvOran+
         "\nKDV tutarı :" + kdvTutar+
-        "\nKDV'li tutar" + kdvlitutar        );
+        "\nKDV'li tutar" + kdvlitutar);
 
 
     }
