@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PalindromSayilar {
+public class PalindromeSayilar {
 
     static String isPalindrom(int sayi){
         int geciciSayi=sayi, tersSayi=0, sonSayi;
